@@ -39,7 +39,6 @@ apis:
   - name: IBGE
     description: "Aggregate services of IBGE (Brazilian Institute of Geography and Statistics)"
     humanURL: https://servicodados.ibge.gov.br/api/docs/
-    baseURL: https://servicodados.ibge.gov.br/api/docs/
     tags:
       - Geocoding
     properties:
